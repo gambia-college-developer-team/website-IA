@@ -4,7 +4,7 @@
 
 ​	**Primary Navigation**
 
-- Home
+- Home (will be the logo)
 
 - Academics
 
@@ -13,10 +13,9 @@
 
 - Admission
 
-  - 
   - Tuition
   - Financial Aid
-
+  
 - On Campus
 
   - Events (a list of all events happening in all schools and admin)
@@ -31,6 +30,7 @@
   - Research
 
 - About Gambia College
+  
   - Gambia College at a Glance
     - About the Schools
     - History (combined history and history of principality)
@@ -49,8 +49,11 @@
   - Academic Experience
   - FAQ
   - Multimedia (don't list under the main menu - videos, audio and photos)
-  - News and Events
   - Social Media
+  
+- News 
+  
+- Events (notices will be part of events a kind of a sub type)
   
   
 
@@ -67,9 +70,9 @@
 
 - news.gambiacollege.edu.gm
 - news.gambiacollege.edu.gm/events
-- sac.gambiacollege.edu.gm
+- sag.gambiacollege.edu.gm
 - sed.gambiacollege.edu.gm
-- sns.gambiacollege.edu.gm
+- snm.gambiacollege.edu.gm
 - sph.gambiacollege.edu.gm
 
 
