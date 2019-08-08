@@ -31,7 +31,7 @@
 
 - About Gambia College
   
-  - Gambia College at a Glance
+  - College at a Glance
     - About the Schools
     - History (combined history and history of principality)
     - Student Life
@@ -60,11 +60,10 @@
 **Secondary Navigation**
 
 - Students
-- Faculty & Staff
+- Staff
 - Parents
 - Visitors
-- Alumni
-- Media
+- Support Us
 
 ## Sub domains
 
@@ -76,6 +75,31 @@
 - sph.gambiacollege.edu.gm
 
 
+
+## Things in the header
+
+	- logo
+	- primary navigation
+	- secondary navigation
+ - tertiary navigation
+   	- search 
+   - login
+   	- mail
+
+## Things in the footer
+
+- primary footer
+  - for students
+  - about the college
+  - explore
+- secondary footer
+  - logo, name copy and made
+  - social icons
+  - general links that are not found anywhere
+    - terms of use
+    - Privacy and cookies
+    - feedback
+  - settings and back to top
 
 
 
