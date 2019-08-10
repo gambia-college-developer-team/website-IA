@@ -111,7 +111,15 @@
 
 
 
+some sample sites
 
+http://www.lonestar.edu/index.htm
+
+https://www.uic.edu/
+
+https://www.gla.ac.uk/
+
+https://www.uu.nl/
 
 
 
